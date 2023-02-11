@@ -1,5 +1,5 @@
 # SC2002-MOBLIMA
-Reupload of SC2002 Object-Oriented Programming Group Project as original repo is private
+SC2002 Object-Oriented Programming Group Project (re-upload)
 
 Initialised Cinema Staff Accounts
 
